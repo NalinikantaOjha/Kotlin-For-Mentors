@@ -17,8 +17,20 @@ fun main(args:Array<String>){
 
     //2. When
     /*
-    Its like if else condition  in when we can put tow or more variable
+    Its like if else condition  but in when we can put tow or more value and also we can set an range
      */
+    when(a){
+        1-> println(1)
+        1-> println(10)
+    }
+    when(a){
+        1,2,3-> println("between 1 to 3")
+        4,5,6-> println("May be 4 or 5 or 6")
+        else-> println("nothing")
+    }
+    when(a){
+        in 1..10-> println("between 1 to 10")
+    }
 
 
 }
