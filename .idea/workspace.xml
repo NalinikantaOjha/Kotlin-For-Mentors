@@ -2,28 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32c5b3e1-7c98-4250-83c2-30b9d044e9ba" name="Default Changelist" comment="kotlin basics like printing , data type , operator , taking Input">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kotlin_for_Mentors.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-reflect-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-reflect.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-test-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-test.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/kotlin_for_Mentors/KotlinJava.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/kotlin_for_Mentors/META-INF/kotlin_for_Mentors.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/kotlin_for_Mentors/PrintingKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KotlinJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Printing.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_for_Mentors/KotlinJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin_for_Mentors/KotlinJava.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_for_Mentors/PrintingKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin_for_Mentors/PrintingKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Printing.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Printing.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="24YASUxlZZg6MRWiGAbcz3d6YPx" />
@@ -95,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643813366462</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="kotlin basics like printing , data type , operator , taking Input">
+      <created>1643813562294</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643813562294</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
