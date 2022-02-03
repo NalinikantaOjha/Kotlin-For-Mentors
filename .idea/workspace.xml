@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32c5b3e1-7c98-4250-83c2-30b9d044e9ba" name="Default Changelist" comment="kotlin basics like printing , data type , operator , taking Input">
+    <list default="true" id="32c5b3e1-7c98-4250-83c2-30b9d044e9ba" name="Default Changelist" comment="if else condition and when">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Printing.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Printing.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643813562294</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="if else condition and when">
+      <created>1643815760742</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1643815760742</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,10 +107,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="kotlin basics like printing , data type , operator , taking Input" />
     <MESSAGE value="if else condition" />
-    <option name="LAST_COMMIT_MESSAGE" value="if else condition" />
+    <MESSAGE value="if else condition and when" />
+    <option name="LAST_COMMIT_MESSAGE" value="if else condition and when" />
   </component>
 </project>

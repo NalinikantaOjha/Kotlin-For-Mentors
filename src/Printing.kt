@@ -31,6 +31,19 @@ fun main(args:Array<String>){
     when(a){
         in 1..10-> println("between 1 to 10")
     }
+    //for loop until that position
+    for (i in 1 until 5 step 2){
+        print(i)
+    }
+    //for loop including that position
+    for (i in 1 .. 5 ){
+        print(i)
+    }
+    // for loop in decreasing order
+    for (i in 5 downTo 0){
+        print(i)
+    }
+
 
 
 }
