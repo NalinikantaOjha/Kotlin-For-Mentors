@@ -7,7 +7,6 @@
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/kotlin_for_Mentors.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lib/kotlin-reflect-sources.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lib/kotlin-reflect.jar" afterDir="false" />
@@ -19,10 +18,7 @@
       <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lib/kotlin-test-sources.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lib/kotlin-test.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/kotlin_for_Mentors/KotlinJava.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/kotlin_for_Mentors/META-INF/kotlin_for_Mentors.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/kotlin_for_Mentors/PrintingKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KotlinJava.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Printing.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +72,9 @@
       <list>
         <item itemvalue="Application.PrintingKt" />
         <item itemvalue="Application.KotlinJava" />
+        <item itemvalue="Application.PrintingKt" />
+        <item itemvalue="Application.KotlinJava" />
+        <item itemvalue="Application.PrintingKt" />
       </list>
     </recent_temporary>
   </component>
@@ -108,6 +107,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="kotlin basics like printing , data type , operator , taking Input" />
