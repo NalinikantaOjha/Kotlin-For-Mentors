@@ -1,4 +1,4 @@
-import java.util.*
+package inner_class_or_nested_class
 
 class outer(){
     inner class inner(){
@@ -11,7 +11,3 @@ fun main(args: Array<String>){
     val outer=outer().inner()
     outer.nalini()
 }
-
-
-
-
