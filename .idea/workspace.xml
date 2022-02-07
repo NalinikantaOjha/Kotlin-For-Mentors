@@ -1,34 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32c5b3e1-7c98-4250-83c2-30b9d044e9ba" name="Default Changelist" comment="condition and looping">
-      <change afterPath="$PROJECT_DIR$/src/abstract/abstractChild.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract/abstractClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotation/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotation/anotation.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotation/overloads/Over.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotation/overloads/OverJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructor/constructor.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataClass/Data.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataClass/RunClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataClass/java/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataClass/java/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/Parent.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/childOne.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/childTwo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/java/JavaParent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/java/child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inner_class_or_nested_class/main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inner_class_or_nested_class/outer.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kotlin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seald/Seald.kt" afterDir="false" />
+    <list default="true" id="32c5b3e1-7c98-4250-83c2-30b9d044e9ba" name="Default Changelist" comment="opps">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin_for_Mentors/KotlinJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin_for_Mentors/KotlinJava.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/kotlin_for_Mentors/META-INF/kotlin_for_Mentors.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin_for_Mentors/META-INF/kotlin_for_Mentors.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/kotlin_for_Mentors/PrintingKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin_for_Mentors/PrintingKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KotlinJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KotlinJava.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Printing.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Printing.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstract/abstractChild.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstract/abstractClass.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/anotation/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/anotation/anotation.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/anotation/overloads/Over.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/anotation/overloads/OverJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructor/constructor.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataClass/Data.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataClass/RunClass.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataClass/java/Data.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataClass/java/Run.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/Parent.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/childOne.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/childTwo.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/java/JavaParent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/java/child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inner_class_or_nested_class/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inner_class_or_nested_class/outer.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seald/Seald.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +42,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="opps" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="24YASUxlZZg6MRWiGAbcz3d6YPx" />
@@ -55,8 +57,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nalinikanta_fa3_022/unit-4/sprint-4/day-1/assgnment" />
   </component>
-  <component name="RunManager" selected="Application.Run">
+  <component name="RunManager" selected="Application.PrintingKt">
     <configuration name="KotlinJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KotlinJava" />
       <module name="kotlin_for_Mentors" />
@@ -105,9 +108,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintingKt" />
         <item itemvalue="Application.Run" />
         <item itemvalue="Application.RunClassKt" />
-        <item itemvalue="Application.PrintingKt" />
         <item itemvalue="Application.KotlinJava" />
         <item itemvalue="Application.PrintingKt" />
       </list>
